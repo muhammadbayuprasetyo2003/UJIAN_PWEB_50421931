@@ -1,0 +1,35 @@
+[
+  {
+    "nama_barang": "Tolak Angin",
+    "kode_barang": "17GK78",
+    "jenis_barang": "Obat-Obatan",
+    "harga_barang": "5000",
+    "stok_barang": "30",
+    "producer_barang": "PT. Sidomuncul",
+    "supplier_barang": "PT. Muhammad Bayu Prasetyo Supplier",
+    "tanggal_awal_stok_barang": "2023-12-01",
+    "lokasi_simpan_barang": "Rak 1"
+  },
+  {
+    "nama_barang": "Oreo",
+    "kode_barang": "12GT23",
+    "jenis_barang": "Makanan",
+    "harga_barang": "3000",
+    "stok_barang": "100",
+    "producer_barang": "PT. Mondelez Indonesia",
+    "supplier_barang": "PT. Aris Zakaria Supplier",
+    "tanggal_awal_stok_barang": "2023-12-02",
+    "lokasi_simpan_barang": "Rak 5"
+  },
+  {
+    "nama_barang": "Buavita Manggo",
+    "kode_barang": "19TY23",
+    "jenis_barang": "Minuman",
+    "harga_barang": "12000",
+    "stok_barang": "60",
+    "producer_barang": "PT. Unilever Indonesia",
+    "supplier_barang": "PT. Bagas Suryo Supplier",
+    "tanggal_awal_stok_barang": "2023-11-12",
+    "lokasi_simpan_barang": "Rak 3"
+  }
+]
